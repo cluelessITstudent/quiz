@@ -2,10 +2,23 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>xAPI Launch Test</title>
+  <title>xAPI Launch</title>
   <script src="https://cdn.jsdelivr.net/npm/xapi-launch-kit@latest/dist/xapi-launch-kit.min.js"></script>
+  <style>
+    html, body {
+      margin: 0; padding: 0; height: 100%;
+      overflow: hidden;
+    }
+    #launch-container {
+      width: 100vw;
+      height: 100vh;
+      border: none;
+    }
+  </style>
 </head>
 <body>
+  <div id="launch-container"></div>
+
   <script>
     const lrs = {
       endpoint: "https://xapi-trial.lrs.io/xapi/",
@@ -22,7 +35,7 @@
         name: "Leroy1",
         mbox: "mailto:l.biscoro@yahoo.com"
       },
-      el: document.body
+      el: document.getElementById('launch-container')
     });
   </script>
 </body>
