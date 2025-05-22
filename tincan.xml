@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Life: A Journey of Learning</name>
+      <description lang="en-US">This course provides students with an engaging exploration of life&#39;s fundamental principles, challenges, and interconnected systems. Through interactive knowledge checks, quizzes, and activities, learners will develop a deeper understanding of biological processes, adaptation mechanisms, and the ethical considerations surrounding life. Designed for students at all levels, the course emphasizes active learning with an 80% passing requirement to ensure mastery of key concepts. Participants will gain insights into the cycle of life, the impact of human actions on ecosystems, and strategies for finding personal meaning and purpose. By the end of the course, students will be equipped with the knowledge and critical thinking skills to appreciate and navigate the complexities of life.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900023j7d325pel52" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Understanding the Basics of Life/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+                                  
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900023j7d325pel52/cmaz0qlr900243j7dg3eh6aq0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Match each fundamental concept of life with its importance or benefit. This will help you understand why these basics are essential to our existence.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_99d45c37-aeb4-4860-9e39-4293ea09aa36[.]target_99d45c37-aeb4-4860-9e39-4293ea09aa36</correctResponsePattern>
+    <correctResponsePattern>source_c29273b2-1022-4c7b-b1c5-bf2256bed572[.]target_c29273b2-1022-4c7b-b1c5-bf2256bed572</correctResponsePattern>
+    <correctResponsePattern>source_9c255ef5-c822-4dcf-a672-f84c4fcbab38[.]target_9c255ef5-c822-4dcf-a672-f84c4fcbab38</correctResponsePattern>
+    <correctResponsePattern>source_baccd046-9538-4651-a680-dfb2cf0bc9c1[.]target_baccd046-9538-4651-a680-dfb2cf0bc9c1</correctResponsePattern>
+    <correctResponsePattern>source_fe50c361-f281-4896-8cf6-2c0a22dd6550[.]target_fe50c361-f281-4896-8cf6-2c0a22dd6550</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_99d45c37-aeb4-4860-9e39-4293ea09aa36</id>
+    <description lang="en-US">Adaptation></description>
+  </component>
+    <component>
+    <id>source_c29273b2-1022-4c7b-b1c5-bf2256bed572</id>
+    <description lang="en-US">Homeostasis></description>
+  </component>
+    <component>
+    <id>source_9c255ef5-c822-4dcf-a672-f84c4fcbab38</id>
+    <description lang="en-US">Reproduction></description>
+  </component>
+    <component>
+    <id>source_baccd046-9538-4651-a680-dfb2cf0bc9c1</id>
+    <description lang="en-US">Energy Utilization></description>
+  </component>
+    <component>
+    <id>source_fe50c361-f281-4896-8cf6-2c0a22dd6550</id>
+    <description lang="en-US">Growth and Development></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_99d45c37-aeb4-4860-9e39-4293ea09aa36</id>
+        <description lang="en-US">Allows organisms to survive and thrive in different environments.</description>
+      </component>
+          <component>
+        <id>target_c29273b2-1022-4c7b-b1c5-bf2256bed572</id>
+        <description lang="en-US">Ensures internal conditions remain stable despite external changes.</description>
+      </component>
+          <component>
+        <id>target_9c255ef5-c822-4dcf-a672-f84c4fcbab38</id>
+        <description lang="en-US">Enables the creation of new individuals to sustain the species.</description>
+      </component>
+          <component>
+        <id>target_baccd046-9538-4651-a680-dfb2cf0bc9c1</id>
+        <description lang="en-US">Provides the power needed for growth, repair, and other functions.</description>
+      </component>
+          <component>
+        <id>target_fe50c361-f281-4896-8cf6-2c0a22dd6550</id>
+        <description lang="en-US">Enables organisms to increase in size and complexity over time.</description>
+      </component>
+      </target>
+  </activity>
+                      <activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900033j7du8rngj0s" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">The Cycle of Life/quiz</name>
+      <description lang="en-US">Quiz: Life: A Journey of Learning</description>
+    </activity>
+                                  
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900033j7du8rngj0s/cmaz0kifm000g3j7d9mi8fgb8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the primary purpose of lifelong learning?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmaz0kifm000i3j7dqv6ha9ov</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmaz0kifm000h3j7dw2ubx3nr</id>
+    <description lang="en-US">To gain formal qualifications</description>
+  </component>
+    <component>
+    <id>choice_cmaz0kifm000i3j7dqv6ha9ov</id>
+    <description lang="en-US">To adapt to changing circumstances</description>
+  </component>
+    <component>
+    <id>choice_cmaz0lhlc00133j7dwta4ay66</id>
+    <description lang="en-US">To impress others</description>
+  </component>
+    <component>
+    <id>choice_cmaz0lsw000153j7ditwp3yhq</id>
+    <description lang="en-US">To avoid boredome</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900033j7du8rngj0s/cmaz0kifm000j3j7dj370y5mk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following is a benefit of continuous learning?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmaz0kifm000k3j7dwbaaappg</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmaz0kifm000k3j7dwbaaappg</id>
+    <description lang="en-US">Increased job security</description>
+  </component>
+    <component>
+    <id>choice_cmaz0kifm000m3j7dror39hsa</id>
+    <description lang="en-US">Decreased creativity</description>
+  </component>
+    <component>
+    <id>choice_cmaz0kifm000n3j7dbtszxqa8</id>
+    <description lang="en-US">Limited career options</description>
+  </component>
+    <component>
+    <id>choice_cmaz0kifm000l3j7d0lzrslk1</id>
+    <description lang="en-US">Reduced adaptability</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900033j7du8rngj0s/cmaz0og9i001w3j7dv4z7d0qu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">How can one effectively set learning goals?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_3214f17d-6649-4334-8fde-7e43e5b52246</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_4d9ca21a-e706-4e44-88d5-a60e502586e4</id>
+    <description lang="en-US">By making them vague</description>
+  </component>
+    <component>
+    <id>choice_3214f17d-6649-4334-8fde-7e43e5b52246</id>
+    <description lang="en-US">By ensuring they are specific and measurable</description>
+  </component>
+    <component>
+    <id>choice_2c035c4d-7b14-4911-b006-ed9bd2dc0c94</id>
+    <description lang="en-US">By focusing on others&#39; expectations</description>
+  </component>
+    <component>
+    <id>choice_cee78549-655b-4817-b5c1-2a47dfc07935</id>
+    <description lang="en-US">By avoiding deadlines</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900033j7du8rngj0s/cmaz0ovm3001y3j7dcl3fcaok" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which method is most effective for retaining new information?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_a4efa261-9277-459f-b2b1-bff5226db7a7</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_a4efa261-9277-459f-b2b1-bff5226db7a7</id>
+    <description lang="en-US">Spaced repetition</description>
+  </component>
+    <component>
+    <id>choice_78be7cd6-6d88-462b-a454-8810519c0b1f</id>
+    <description lang="en-US">Listening to lectures without notes</description>
+  </component>
+    <component>
+    <id>choice_48df649b-934e-430a-8a43-b3042964faf0</id>
+    <description lang="en-US">Reading passively</description>
+  </component>
+    <component>
+    <id>choice_8fc2a7ad-a67e-4f7a-8c03-1a44bade6677</id>
+    <description lang="en-US">Cramming before a test</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900033j7du8rngj0s/cmaz0p9bz00203j7dgnb93zp7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What role does reflection play in the learning process?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_dbc9d9bb-19c8-43de-9f12-0d38080c6fa9</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_d998bfaf-41d5-49f1-a1bd-7e26d3881d7f</id>
+    <description lang="en-US">It has no significant impact</description>
+  </component>
+    <component>
+    <id>choice_8df636e8-ee66-4fa0-a3d2-063b4ecf4379</id>
+    <description lang="en-US">It is only useful for teachers</description>
+  </component>
+    <component>
+    <id>choice_e4432b7f-25d6-4053-9c05-6eee86b6447d</id>
+    <description lang="en-US">It distracts from practical application</description>
+  </component>
+    <component>
+    <id>choice_dbc9d9bb-19c8-43de-9f12-0d38080c6fa9</id>
+    <description lang="en-US">It helps consolidate learning and identify areas for improvement</description>
+  </component>
+    </choices>
+  </activity>
+                      <activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900043j7da76n6fm5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Life&#39;s Challenges and Adaptations/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+                                  
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900043j7da76n6fm5/cmaz0s2oo002m3j7drslwj0i3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Overcoming life&#39;s challenges often requires __________, which involves adjusting to new circumstances or environments.</name>
+  <description lang="en-US"></description>
+  <interactionType>long-fill-in</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>{case_matters=false}adaptation</correctResponsePattern>
+    </correctResponsePatterns>
+  </activity>
+                              
+<activity id="http://F83NSkLOEsgCX6ycJa_O_rw1amFPuWVf_rise/cmaz0jzk900043j7da76n6fm5/cmaz0sr4t002w3j7dy5e5haeo" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">One of the most important traits for overcoming life&#39;s challenges is __________, which allows individuals to adjust to new circumstances and thrive.</name>
+  <description lang="en-US"></description>
+  <interactionType>long-fill-in</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>{case_matters=false}adaptability</correctResponsePattern>
+    </correctResponsePatterns>
+  </activity>
+                    </activities>
+</tincan>
